@@ -1,12 +1,6 @@
 
 # Dotfiles Repository
 
-![screenshot](https://github.com/tunjan/dotfiles/blob/main/desktop.png)
-
-## Repository Introduction
-
-Welcome to my dotfiles repository. These dotfiles encapsulate the essence of my preferred workspace setup. By sharing this repository, I aim to offer a glimpse into how I've tailored my system, while also providing a foundation for anyone looking to customize their own environment. Feel free to explore, fork, and adapt as you see fit.
-
 ## Structure of the Repository
 
 The repository is structured as follows:
